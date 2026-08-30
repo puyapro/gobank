@@ -1,4 +1,4 @@
 # GoBank
 Small Bank system with Go
 
-![gobankposter.png](go bank poster)
+![go bank poster](gobankposter.png)
